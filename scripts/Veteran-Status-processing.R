@@ -22,7 +22,7 @@ path_to_raw <- (paste0(getwd(), "/", raw_location))
 
 ctGeos <- getCTGeos()
 # years for which we will process this dataset
-yearList = c(2010:2016)
+yearList = c(2017:2017)
 
 tn = "B21001"
 acsdata <- getACSData(ctGeos, yearList=yearList, table = tn)
@@ -141,7 +141,7 @@ dataset <- dataset %>%
 
 write.table(
     dataset,
-    file.path("data", "veteran-status-2016.csv"),
+    file.path("data", "veteran-status-2017.csv"),
     sep = ",",
     row.names = F,
     na = "-9999"
