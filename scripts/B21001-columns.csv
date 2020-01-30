@@ -1,55 +1,55 @@
-name
-"Total:Total:Total"
-"Total:Total:Veteran"
-"Total:Total:Nonveteran"
-"Male:Total:Total"
-"Male:Total:Veteran"
-"Male:Total:Nonveteran"
-"Male:18 to 34 years:Total"
-"Male:18 to 34 years:Veteran"
-"Male:18 to 34 years:Nonveteran"
-"Male:35 to 54 years:Total"
-"Male:35 to 54 years:Veteran"
-"Male:35 to 54 years:Nonveteran"
-"Male:55 to 64 years:Total"
-"Male:55 to 64 years:Veteran"
-"Male:55 to 64 years:Nonveteran"
-"Male:65 to 74 years:Total"
-"Male:65 to 74 years:Veteran"
-"Male:65 to 74 years:Nonveteran"
-"Male:75 years and over:Total"
-"Male:75 years and over:Veteran"
-"Male:75 years and over:Nonveteran"
-"Female:Total:Total"
-"Female:Total:Veteran"
-"Female:Total:Nonveteran"
-"Female:18 to 34 years:Total"
-"Female:18 to 34 years:Veteran"
-"Female:18 to 34 years:Nonveteran"
-"Female:35 to 54 years:Total"
-"Female:35 to 54 years:Veteran"
-"Female:35 to 54 years:Nonveteran"
-"Female:55 to 64 years:Total"
-"Female:55 to 64 years:Veteran"
-"Female:55 to 64 years:Nonveteran"
-"Female:65 to 74 years:Total"
-"Female:65 to 74 years:Veteran"
-"Female:65 to 74 years:Nonveteran"
-"Female:75 years and over:Total"
-"Female:75 years and over:Veteran"
-"Female:75 years and over:Nonveteran"
-"Total:18 to 34 years:Total"
-"Total:18 to 34 years:Veteran"
-"Total:18 to 34 years:Nonveteran"
-"Total:35 to 54 years:Total"
-"Total:35 to 54 years:Veteran"
-"Total:35 to 54 years:Nonveteran"
-"Total:55 to 64 years:Total"
-"Total:55 to 64 years:Veteran"
-"Total:55 to 64 years:Nonveteran"
-"Total:65 to 74 years:Total"
-"Total:65 to 74 years:Veteran"
-"Total:65 to 74 years:Nonveteran"
-"Total:75 years and over:Total"
-"Total:75 years and over:Veteran"
-"Total:75 years and over:Nonveteran"
+name,a
+"Total:Total:Total",
+"Total:Total:Veteran",
+"Total:Total:Nonveteran",
+"Male:Total:Total",
+"Male:Total:Veteran",
+"Male:Total:Nonveteran",
+"Male:18 to 34 years:Total",
+"Male:18 to 34 years:Veteran",
+"Male:18 to 34 years:Nonveteran",
+"Male:35 to 54 years:Total",
+"Male:35 to 54 years:Veteran",
+"Male:35 to 54 years:Nonveteran",
+"Male:55 to 64 years:Total",
+"Male:55 to 64 years:Veteran",
+"Male:55 to 64 years:Nonveteran",
+"Male:65 to 74 years:Total",
+"Male:65 to 74 years:Veteran",
+"Male:65 to 74 years:Nonveteran",
+"Male:75 years and over:Total",
+"Male:75 years and over:Veteran",
+"Male:75 years and over:Nonveteran",
+"Female:Total:Total",
+"Female:Total:Veteran",
+"Female:Total:Nonveteran",
+"Female:18 to 34 years:Total",
+"Female:18 to 34 years:Veteran",
+"Female:18 to 34 years:Nonveteran",
+"Female:35 to 54 years:Total",
+"Female:35 to 54 years:Veteran",
+"Female:35 to 54 years:Nonveteran",
+"Female:55 to 64 years:Total",
+"Female:55 to 64 years:Veteran",
+"Female:55 to 64 years:Nonveteran",
+"Female:65 to 74 years:Total",
+"Female:65 to 74 years:Veteran",
+"Female:65 to 74 years:Nonveteran",
+"Female:75 years and over:Total",
+"Female:75 years and over:Veteran",
+"Female:75 years and over:Nonveteran",
+"Total:18 to 34 years:Total",
+"Total:18 to 34 years:Veteran",
+"Total:18 to 34 years:Nonveteran",
+"Total:35 to 54 years:Total",
+"Total:35 to 54 years:Veteran",
+"Total:35 to 54 years:Nonveteran",
+"Total:55 to 64 years:Total",
+"Total:55 to 64 years:Veteran",
+"Total:55 to 64 years:Nonveteran",
+"Total:65 to 74 years:Total",
+"Total:65 to 74 years:Veteran",
+"Total:65 to 74 years:Nonveteran",
+"Total:75 years and over:Total",
+"Total:75 years and over:Veteran",
+"Total:75 years and over:Nonveteran",
